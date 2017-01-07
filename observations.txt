@@ -1,0 +1,7 @@
+1) Do you have many clients putting non-testable code in the message handlers?
+
+2) The bootcamp stated that child actors should be created in their parent, probably inside the message handler.  How would you incorporate an IoC container into this scenario?
+
+3) How would I do Behavior Testing on a Receiver Actor's filter statements?
+
+4) Go over Typed and UnTyped Actor again
